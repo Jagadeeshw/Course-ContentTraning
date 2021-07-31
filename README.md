@@ -55,7 +55,7 @@ Who must be contacted for any question related to this service?
 <li>Shell Script Examples
 
 
-#What is Version Control System
+# What is Version Control System
 **Git:
 <li> Installation
 <li> Configuration
@@ -64,7 +64,7 @@ Who must be contacted for any question related to this service?
 <li> Repositories
 <li> Tracking
 
-#Automated Build Process
+# Automated Build Process
 **Maven**
 <li> Introduction
 <li> Maven Structure
@@ -107,7 +107,7 @@ Who must be contacted for any question related to this service?
 
  
 
-Ansible:
+# **Ansible**:
 
 <li> Ansible Installation in Ubuntu/Redhat
 
@@ -206,9 +206,9 @@ Ansible:
 
  # Compute:
 
-      <li> Ec2 instances creation and userdata
+      => Ec2 instances creation and userdata
 
-      <li> Auto scaling and load balancing using Application Load balancer and Classic Load balancer
+      => Auto scaling and load balancing using Application Load balancer and Classic Load balancer
 
       <li> Difference Between Network load balancer vs Application load balancer vs  Classic Load balancer
 
