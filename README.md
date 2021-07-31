@@ -49,7 +49,6 @@ Who must be contacted for any question related to this service?
 
 **Shell Scripting Overview** :
 
-->Shell Script Fundamentals
-->Bash Shell Syntax Overview
-->Shell Script Examples
-  
+<li>Shell Script Fundamentals
+<li>Bash Shell Syntax Overview
+<li>Shell Script Examples
