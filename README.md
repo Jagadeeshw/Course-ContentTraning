@@ -10,9 +10,9 @@ Who must be contacted for any question related to this service?
 | ---  | ---   |
 | Jagadeesh | jagadeeshwar777@gmail.com |
 | Naveen | naveenchalla900@gmail.com |
-  | **Linux Administration Syllabus** | Devops | Info / Comment |
-  |---|---|---|
-# 
+
+  
+#  **Linux Administration Syllabus**
 <li>Introduction to Unix & Linux
 <li>Working at the Command Line
 <li>Linux commands
