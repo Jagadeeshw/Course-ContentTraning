@@ -1,6 +1,6 @@
 # Course-ContentTraning
 Syllabus for Linux, AWS And DevOps Tools  
-This document contains the relevant information of every Devops life component released.
+This document contains the relevant information of every Devops life component release.
 
 ## Owner(s) and contacts of the service <Service>
 
