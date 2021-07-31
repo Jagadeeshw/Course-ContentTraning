@@ -54,15 +54,211 @@ Who must be contacted for any question related to this service?
 <li>Bash Shell Syntax Overview
 <li>Shell Script Examples
 
-  #What is Version Control System
-**Git**:
-a. Installation
-b. Configuration
-c. Basic Commands
-d. Branches
-e. Repositories
-f. Tracking
 
-  
-  
+#What is Version Control System
+**Git:
+<li> Installation
+<li> Configuration
+<li> Basic Commands
+<li> Branches
+<li> Repositories
+<li> Tracking
+
+#Automated Build Process
+**Maven**
+<li> Introduction
+<li> Maven Structure
+<li> Maven Dependencies
+<li> Maven Repositories
+<li> Maven Plugins
+<li> Integrated Maven Build
+
+**Jenkins**:
+
+<li> Freestyle job and pipeline job creation
+
+<li> User management
+
+<li> Java and maven integration
+
+<li> Sonarqube Integration for code analysis
+
+<li> Jfrog integration to maintain artifacts
+
+<li> Build Triggers (poll scm, build periodically, web hooks)
+
+<li> Master slave configuration
+
+<li> Parameterized builds
+
+<li> Jenkins backup
+
+<li> Upstream and downstream jobs
+
+<li> Ansible and terraform and aws   integration
+
+<li> Pushing artifacts to s3 bucket
+
+<li> Email Notifications to office 365 or Gmail
+
+<li> Docker Integration to containerize the applications
+
+<li> Explain Jenkins directory structure and default port changes and executors
+
+ 
+
+Ansible:
+
+<li> Ansible Installation in Ubuntu/Redhat
+
+<li> Ansible Master and node Authentication
+
+<li> yaml file explanation
+
+<li> Ansible static inventory
+
+<li> Ansible Modules(basic modules like Get_url,Unarchive,Lineinfile,Blockinfile,Register,Debug,Copy,Fetch,Templates,Set_facts,Gather_facts,Apt,Yum,Package,Command,Shell)
+
+<li> Ansible variables and Command line variables
+
+<li> Ansible group hosts and Group variables
+
+<li> Ansible conditionals
+
+<li> Ansible tags
+
+<li> Ansible vault
+
+<li> Ansible service and handlers
+
+<li> Ansible rolling updates
+
+<li> Ansible roles
+
+<li> Ansible Dynamic inventory
+
+ 
+
+**Terraform**:
+
+<li> Using terraform create resources in aws
+
+<li> Terraform Variables and command line variables
+
+<li> Terraform tf vars
+
+<li> Terraform backends
+
+<li> Terraform modules
+
+<li> Terraform layers
+
+<li> Terraform conditionals and interpolations
+
+<li> Terraform import ,export, taint,plan,validate
+
+<li> Using Assume role Aws resources creation by terraform
+
+<li> Terraform workspaces
+
+<li> Terraform reusable terraform modules
+
+ 
+
+**Docker**:
+
+<li> Pulling images from docker registry
+
+<li> Introduction
+
+<li>Installing Docker
+<li>Installing Docker on Windows
+<li>Installing Docker on Linux
+<li>Working with Containers
+<li>What is container
+<li>Docker run command
+<li>Theory of pulling and Running Containers
+<li>Working with images
+<li>Container Life cycle
+<li>Creating & Managing Container Images
+<li>Data Volumes & System Management
+<li>Single Host Networking
+<li>Multi Host Networking
+<li> Create containers
+
+<li> Write Custom Docker files
+
+<li> Create image and container from docker files
+
+<li> Docker Networking
+
+<li> Docker volumes
+
+<li> Explain Docker commands
+
+<li> Docker cgoups and uninon file system and image layers
+
+ 
+
+ 
+
+**AMAZON WEB SERVICES (AWS)**:
+
+ # Compute:
+
+      <li> Ec2 instances creation and userdata
+
+      <li> Auto scaling and load balancing using Application Load balancer and Classic Load balancer
+
+      <li> Difference Between Network load balancer vs Application load balancer vs  Classic Load balancer
+
+      <li> Ebs volumes, Snapshots  and mounting ebs volumes on to ec2 instance
+
+      <li> Explain about security groups and elastic ips and network interfaces
+
+      <li> Elastic container service, Elastic kubernetes service  ,Elastic bean stack
+
+      <li> Lambda creation and triggers
+
+ # Networking:
+
+     <li> Vpc , Subnets and internet gateway  creation
+
+     <li>  Bastian host
+
+     <li> Attaching nat gateway to private networks
+
+     <li> Vpc endpoints
+
+     <li> Vpc Peering connection
+
+     <li>  VPN connection
+
+     <li> Security groups vs network access control list
+
+ #Storage:
+
+     <li> s3,EFS,s3 glacier
+
+# Database:
+
+    <li> Rds Creation and Dynamo Db creation
+
+#  IAM:
+
+      <li> Users and group creation
+
+      <li> Writing custom policies and Attaching to the users and groups
+
+      <li> Create roles like service roles and switch roles
+
+     <li>  Creating roles using terraform 
+
+#Monitoring:
+
+     <li> Cloud watch, Cloud  Trail, GaurdDuty
+
+#Aws-DevOps native service:
+
+     <li> Code Commit, Code Deploy, Code Pipeline 
   
