@@ -4,12 +4,13 @@ Syllabus for Linux, AWS And DevOps Tools
 DevOps – Development and Operations provides a collection of tools and applications designed to help the development and operations teams to work in unison. The primary idea of applications like Devops is to help build an integrated Development environment and provide Project Managers with better visibility on all the project development phases and actions items across the development, testing and
 Operations team. This integrated information helps them take informed decision and mitigate risks impacting the project on time ensuring quick turn-a-round of project delivery.
 
-# the main objectives of this Course? 
+# The main objectives of this Course? 
 
 The Devops Training program focus extensively on Cloud based tools and Cloud Models to help students prepare on the latest tools. The primary objective of the Devops training program is to help students and work professionals learn and master this latest technology which is of
 great demand in the market today. The training programs are conducted by the best trainers with vast amount of real-time exper
-This document contains the relevant information of every Devops life component release.
 
+
+This document contains the relevant information of every Devops life component release.
 
 
 ## Owner(s) and contacts of the service <Service>
