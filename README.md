@@ -206,19 +206,19 @@ Who must be contacted for any question related to this service?
 
  # Compute:
 
-      => Ec2 instances creation and userdata
+      -> Ec2 instances creation and userdata
 
-      => Auto scaling and load balancing using Application Load balancer and Classic Load balancer
+      -> Auto scaling and load balancing using Application Load balancer and Classic Load balancer
 
-      <li> Difference Between Network load balancer vs Application load balancer vs  Classic Load balancer
+      -> Difference Between Network load balancer vs Application load balancer vs  Classic Load balancer
 
-      <li> Ebs volumes, Snapshots  and mounting ebs volumes on to ec2 instance
+      -> Ebs volumes, Snapshots  and mounting ebs volumes on to ec2 instance
 
-      <li> Explain about security groups and elastic ips and network interfaces
+      -> Explain about security groups and elastic ips and network interfaces
 
-      <li> Elastic container service, Elastic kubernetes service  ,Elastic bean stack
+      -> Elastic container service, Elastic kubernetes service  ,Elastic bean stack
 
-      <li> Lambda creation and triggers
+      -> Lambda creation and triggers
 
  # Networking:
 
@@ -236,7 +236,7 @@ Who must be contacted for any question related to this service?
 
      <li> Security groups vs network access control list
 
- #Storage:
+ # Storage:
 
      <li> s3,EFS,s3 glacier
 
@@ -252,13 +252,13 @@ Who must be contacted for any question related to this service?
 
       <li> Create roles like service roles and switch roles
 
-     <li>  Creating roles using terraform 
+     ->  Creating roles using terraform 
 
-#Monitoring:
+# Monitoring:
 
-     <li> Cloud watch, Cloud  Trail, GaurdDuty
+     -> Cloud watch, Cloud  Trail, GaurdDuty
 
-#Aws-DevOps native service:
+# Aws-DevOps native service:
 
-     <li> Code Commit, Code Deploy, Code Pipeline 
+     -> Code Commit, Code Deploy, Code Pipeline 
   
