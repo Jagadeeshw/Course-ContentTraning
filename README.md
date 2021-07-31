@@ -222,19 +222,19 @@ Who must be contacted for any question related to this service?
 
  # Networking:
 
-     <li> Vpc , Subnets and internet gateway  creation
+     -> Vpc , Subnets and internet gateway  creation
 
-     <li>  Bastian host
+     ->  Bastian host
 
-     <li> Attaching nat gateway to private networks
+     -> Attaching nat gateway to private networks
 
-     <li> Vpc endpoints
+     -> Vpc endpoints
 
-     <li> Vpc Peering connection
+     -> Vpc Peering connection
 
-     <li>  VPN connection
+     ->  VPN connection
 
-     <li> Security groups vs network access control list
+     -> Security groups vs network access control list
 
  # Storage:
 
@@ -242,15 +242,15 @@ Who must be contacted for any question related to this service?
 
 # Database:
 
-    <li> Rds Creation and Dynamo Db creation
+    -> Rds Creation and Dynamo Db creation
 
 #  IAM:
 
-      <li> Users and group creation
+      -> Users and group creation
 
-      <li> Writing custom policies and Attaching to the users and groups
+      -> Writing custom policies and Attaching to the users and groups
 
-      <li> Create roles like service roles and switch roles
+      -> Create roles like service roles and switch roles
 
      ->  Creating roles using terraform 
 
@@ -261,4 +261,8 @@ Who must be contacted for any question related to this service?
 # Aws-DevOps native service:
 
      -> Code Commit, Code Deploy, Code Pipeline 
+     -> API gateway
+     -> Cognito 
+     -> SSM 
+     -> ECS
   
