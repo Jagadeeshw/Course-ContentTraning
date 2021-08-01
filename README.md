@@ -67,9 +67,9 @@ Who must be contacted for any question related to this service?
 
 
 # What is Version Control System
-**Git:
+**Git**:
 <li> Installation
-<li> Configuration
+<li>Configuration
 <li> Basic Commands
 <li> Branches
 <li> Repositories
